@@ -2,6 +2,11 @@
 
 > An electron-vue project
 
+## Screenshots
+![image](https://github.com/tarepanda1024/diary/raw/master/Screenshots/01.png)
+![image](https://github.com/tarepanda1024/diary/raw/master/Screenshots/02.png)
+![image](https://github.com/tarepanda1024/diary/raw/master/Screenshots/03.png)
+
 ## Build Setup
 
 ``` bash
